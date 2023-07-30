@@ -1,0 +1,14 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "qianmianyao", email = "904121839@qq.com"},
+]
+dependencies = [
+    "fastapi>=0.100.1",
+    "uvicorn>=0.23.1",
+]
+requires-python = ">=3.8"
+license = {text = "MIT"}
